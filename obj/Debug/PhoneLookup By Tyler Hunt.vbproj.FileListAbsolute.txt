@@ -1,0 +1,12 @@
+Z:\Developer\GitHub\VisualBasic\PhoneLookup By Tyler Hunt\PhoneLookup By Tyler Hunt\bin\Debug\PhoneLookup By Tyler Hunt.exe.config
+Z:\Developer\GitHub\VisualBasic\PhoneLookup By Tyler Hunt\PhoneLookup By Tyler Hunt\bin\Debug\PhoneLookup By Tyler Hunt.exe
+Z:\Developer\GitHub\VisualBasic\PhoneLookup By Tyler Hunt\PhoneLookup By Tyler Hunt\bin\Debug\PhoneLookup By Tyler Hunt.pdb
+Z:\Developer\GitHub\VisualBasic\PhoneLookup By Tyler Hunt\PhoneLookup By Tyler Hunt\bin\Debug\PhoneLookup By Tyler Hunt.xml
+Z:\Developer\GitHub\VisualBasic\PhoneLookup By Tyler Hunt\PhoneLookup By Tyler Hunt\obj\Debug\PhoneLookup By Tyler Hunt.vbprojResolveAssemblyReference.cache
+Z:\Developer\GitHub\VisualBasic\PhoneLookup By Tyler Hunt\PhoneLookup By Tyler Hunt\obj\Debug\PhoneLookup_By_Tyler_Hunt.Resources.resources
+Z:\Developer\GitHub\VisualBasic\PhoneLookup By Tyler Hunt\PhoneLookup By Tyler Hunt\obj\Debug\PhoneLookup By Tyler Hunt.vbproj.GenerateResource.Cache
+Z:\Developer\GitHub\VisualBasic\PhoneLookup By Tyler Hunt\PhoneLookup By Tyler Hunt\obj\Debug\PhoneLookup By Tyler Hunt.exe
+Z:\Developer\GitHub\VisualBasic\PhoneLookup By Tyler Hunt\PhoneLookup By Tyler Hunt\obj\Debug\PhoneLookup By Tyler Hunt.xml
+Z:\Developer\GitHub\VisualBasic\PhoneLookup By Tyler Hunt\PhoneLookup By Tyler Hunt\obj\Debug\PhoneLookup By Tyler Hunt.pdb
+Z:\Developer\GitHub\VisualBasic\PhoneLookup By Tyler Hunt\PhoneLookup By Tyler Hunt\obj\Debug\PhoneLookup_By_Tyler_Hunt.frm_Main.resources
+Z:\Developer\GitHub\VisualBasic\PhoneLookup By Tyler Hunt\PhoneLookup By Tyler Hunt\obj\Debug\PhoneLookup_By_Tyler_Hunt.frm_AboutBox.resources
